@@ -1,0 +1,35 @@
+* Ethics
+    * Neuroethics
+        * More easily disgusted -> more conservative
+        * But ethics are relative to society in which they were raised.
+        * We need to *fix society*
+
+* Open Source Resiliance
+    * StepMania was a DDR clone
+    * Konami sued, and won
+    * But it had to remain open source, so nothing changed
+
+* Diversity of governance
+    * If you have a homogenous group put together a society, it will
+      be friendly to *them*.
+    * No intentional barriers to outsiders
+    * But the culture *will* have barriers to entry
+        * Language or geographical barriers.
+        * Barriers to safety (eg, insisting on open conversations)
+        * Ableist barriers (eg, stairs)
+        * Gender barriers (eg, gendered toilets)
+    * Must engage diversity in governance
+    * You can't really decide for other groups what would be good
+      for them.
+
+* Need to get culture right *from the beginning*
+    * Code of Conduct
+    * Dispute resolution
+    * etc
+
+* Making the world better
+    * Disease
+    * Poverty
+    * Hospital software (citation)
+
+
