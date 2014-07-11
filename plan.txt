@@ -1,3 +1,30 @@
+* This is a talk about the future
+
+
+* Mobile phone penetration
+    * 
+    * Wikipedia Zero?
+    * Increase in violence?
+    * No true internet access
+    * New apps from Kenya
+    * ASK THE USERS WHAT THEY NEED MOST
+
+* Moving beyond open source
+    * Building things for people like you
+    * AWESOME!
+    * The most good can be done by building things for those who
+      are marginalised
+    * (Can use Africa as an example)
+
+* Making the world better
+    * Disease
+    * Poverty
+    * Hospital software (citation)
+    * Peak child?
+
+* National Security and Population Growth
+    * "It recommends that US leadership "influence national leaders" and that "improved world-wide support for population-related efforts should be sought through increased emphasis on mass media and other population education and motivation programs by the U.N., USIA, and USAID."
+
 * Ethics
     * Neuroethics
         * More easily disgusted -> more conservative
@@ -26,10 +53,5 @@
     * Code of Conduct
     * Dispute resolution
     * etc
-
-* Making the world better
-    * Disease
-    * Poverty
-    * Hospital software (citation)
 
 
