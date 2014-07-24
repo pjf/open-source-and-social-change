@@ -27,14 +27,16 @@ I am excited about the future
 # bolting the front of a (...) to the back of a (...)
 # 
 # And it killed its creator
---
-(Cat beard)
+-- [images/catbeard.jpg][bottom-right][font=25px][text-color=white]
+
 # Thanks to the internet and the wonders of cats, anyone
 # can have an awesome beard
---
-# Even if they've got a dog
---
-# Or even if they're actually a cat
+-- [images/dogbeard.jpg][bottom-right][font=25px][text-color=white]
+Credit: dog-beard.com
+-- [images/catcatbeard.jpg][bottom-right][font=25px][text-color=white]
+Credit: catbearding.tumblr.com
+
+# Even cats can have beards
 --
 The World
 is Better
@@ -302,6 +304,11 @@ Diversity of governance
 --
 From the
 Beginning
+--
+Code of Conduct
+--
+Dispute Resolution
+citizencodeofconduct.org
 --
 # If you're all the same
 # High risk of ignorance
