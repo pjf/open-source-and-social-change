@@ -14,7 +14,8 @@ Paul '@pjf' Fenwick
 
 CC-BY 4.0
 --
-I am excited about the future
+I am excited
+about the future
 -- [images/flying-car.jpg]
 
 # Flying cars
@@ -41,10 +42,13 @@ Credit: catbearding.tumblr.com
 # Even cats can have beards
 --
 The World
-is Better
+is a Better
+Place
 --
+1990-2010
+
 Under 5 mortality
-<i>halved</i> 1990-2010
+<i>halved</i>
 
 <span font="25px">World Health Statistics 2013. [S.l.]: World Health Organization, 2013.</span>
 --
@@ -107,66 +111,79 @@ Reach the future
 --
 Overpopulation
 
-# Whenever I raise this, someone cries fear of overpopulation
-# And I recognize that's a legitimate fear
+# Resource usage is a very real concern
+# Especially in the richer nations
+-- [images/fertility.png][bottom-right][font=25px]
+
+<span font="50px">Map: Supaman89, CC-BY-SA</span>
+
+# Over 50% people live in nations with
+# *below* replacement growth
+
 --
-# Half the world's population lives in countries
-# at below replacement levels of growth
-# # {{cite}}
---
-Peak Child
+ 
+
+<span font="200px">Peak Child</span>
+
+<span font="30px">
+“The World Has Reached Peak Number of Children!” Gapminder. Accessed July 24, 2014.
+http://www.gapminder.org/news/world-peak-number-of-children-is-now/
+</span>
+
 --
 Better Living Conditions
 →
 Fewer Children
+
+<span font="30px">Secombe, Mike. “What Happens When Half The World Stops Making Babies.” Accessed July 23, 2014.
+http://www.theglobalmail.org/feature/what-happens-when-half-the-world-stops-making-babies/573/</span>
 --
-Education and Empowerment
+Education
+Empowerment
 of Women
 
 # If you care about population pressure long term
 # And I care *very* much about the long-term future of humanity
 # The best thing you can do is encourage humanitarian efforts
---
-Empowering and
-Giving Voice to
-Marginalised
-Groups
-
+# --
 # 8.2 mins
---
-Why are people
-marginalised?
---
-(Equatorial guinea)
---
-Richest nation
-in Africa
-(GDP per capita)
---
-Eq. Guinea: $33,720
-United Kingdom: $36,209
-
-<span font="80px">World Bank, GDP (PPP) Per capita, 2011-2013</span>
---
-76.8% poverty
-
-2nd Highest
-in the World
-
-<span font="50px">World Bank, 2006</span>
---
-(Exports graph US)
---
-(exports graph)
-
+# --
+# Why are people
+# marginalised?
+# --
+# (Equatorial guinea)
+# --
+# Richest nation
+# in Africa
+# (GDP per capita)
+# --
+# Eq. Guinea: $33,720
+# United Kingdom: $36,209
+# 
+# <span font="80px">World Bank, GDP (PPP) Per capita, 2011-2013</span>
+# --
+# 76.8% poverty
+# 
+# 2nd Highest
+# in the World
+# 
+# <span font="50px">World Bank, 2006</span>
+# --
+# (Exports graph US)
+# --
+# (exports graph)
+# 
 # Wealth not shared with people
 # Very corrupt administration
+# --
+# Overvalued
+# Currency
 --
-Overvalued
-Currency
---
-Institutionalised
+Institutional
 Injustice
+
+# Very easy to see in other cultures
+# Much harder to see in our own
 --
 Local examples
 # Because we're raised in our culture
@@ -192,11 +209,11 @@ Ryan Somma, CC-BY, http://flic.kr/p/8TogrS
 # A friend of mine asked if a transcript would be available
 # Not everyone can watch or listen to talks on-line
 # If you are willing to help transcribe my talks, email me.
---
-Equatorial Guinea
-exports most oil
-to the USA
-
+# --
+# Equatorial Guinea
+# exports most oil
+# to the USA
+# 
 # Thomas Pogge argues that because we are complicit
 # in the sustenance of these institutions, that we
 # owe a level of care to the rest of the world
@@ -211,26 +228,46 @@ Ignorance
 # * Street harassment
 # * Etc etc
 --
-(Leslie Challenge - Listen to people)
---
+Listen
+
+# To people who are not
+# like yourself
+-- [images/robot-hugs.png][bottom][text-color=white]
+Robot-Hugs.com
+
 # If you're looking for a place to
 # start listening...
-
-Robot-Hugs.com
+# 
+# Discusses social justice *very* well
 --
 Well
 Intentioned
 
 # But not all inequality is from ignorance
---
-(Play pump)
+
+-- [images/playpump.jpg]
+
+-- [images/playpump-diag.png]
+
 # Children play
 # Pumps into a holding tank
 # Win/win!
 --
-# $millon dollars raised
+$16.4m Investment
+
+<span font="25px">An Evaluation of the PlayPump® Water System as an Appropriate Technology for Water, Sanitation and Hygiene Programmes. UNICEF, October 2007.</span>
 --
-(cite UNICEF report)
+Expensive
+
+-- [images/playpump-empty.jpg]
+
+# 4x the price
+# Slow
+# Wasn't fun
+# Women pumping
+# Can't be locally maintained
+# Hand pumps *removed*
+
 --
 Real Needs
 vs
@@ -238,23 +275,10 @@ Perceived Needs
 --
 Local Ownership
 
-## USHAHIDI ##
+-- [images/ushahidi-logo-white.png]
 
-(Mobile phones)
-# But really, it's about this
---
-(Graph)
-# More people have access to mobile phones than fresh drinking water
--- [images/water.jpg][bottom-right][font=25px][text-color=white][shading-opacity=0.3]
-Sam Cox, CC-BY-NC: http://flic.kr/p/e1gpum
-
-# EVERYONE should have access to
-# fresh drinking water
---
-
---
-(Ushahidi)
-"Witness"
+# "Witness"
+# "Observer"
 --
 Open Source
 Crisis Management
@@ -262,21 +286,19 @@ Crisis Management
 Kenya
 2007 Elections
 --
-Well Monitoring
-Afghanistan
---
-Problems
-Unreported
+Collecting and
+Visualising Data
+
+-- [images/watertracker_training.png][bottom][font=25px][text-color=white]
+Baker, Rob. “Watertracker: Structured Data, Integrated Response.” Ushahidi Blog, June 2012.
+http://blog.ushahidi.com/2012/06/25/watertracker/
+-- [images/nokia.jpg][bottom]
+
+~ 58%
+<span font="25px">CC-BY Ministerio TIC Colombia, http://flic.kr/p/bBDAKk</span>
 --
 Low
 Literacy
---
-Voice
-Interactive
---
-1. Is the well operational?
-2. Can someone local repair it?
-3. Leave a message
 --
 Bystander
 Effect
@@ -287,23 +309,23 @@ Imbalance
 # the water, but not always
 # have access the technology
 --
-Paired With 
-Local Telco
---
 <s>Free</s>
 --
 Rebate
 --
 Faster repairs
 --
-Less inspections required
+Less inspections
 --
-(Local governance etc?)
+ 
+Nation-wide
 
-### OpenMRS ###
+<span font="25px">Baker, Rob. “Watertracker: Structured Data, Integrated Response.” Ushahidi Blog, June 2012.
+http://blog.ushahidi.com/2012/06/25/watertracker/</span>
 
---
-(OpenMRS)
+# Ownership by the local ministry
+
+-- [images/OpenMRS.png]
 
 --
 Medical
@@ -314,15 +336,16 @@ Kenya
 Philippines
 Bangladesh
 Rwanda
---
-(X million patient records worldwide)
+-- [images/dr-evil.jpg][text-color=white][bottom][shading-opacity=0.2]
+Over 1 Million Records
 --
 Local
 Ownership
---
-(Names examples)
+-- [images/hello.png]
 
 <span font="80px">Source: @JudyWarira, @OpenMRS</span>
+
+# Names
 --
 Nucleating Local
 Software Industries
@@ -362,92 +385,83 @@ citizencodeofconduct.org
 With Real
 Voice
 --
-You cannot decide
-for others what is
-best for them
---
-# You may have to pay someone
-# They're living their lives
---
+You cannot decide<span font="50px">
 
-(Include Leslie's points)
+</span>for others what is<span font="50px">
 
-__END__
-
-# Problems of global injustice would be greatly reduced if this
-# caused widespread outcry, especially in richer nations.
-# 
-# But that is not the case.
+</span>best for them
 --
-Why?
---
-## Drowning child / Distance / Etc
-## Maybe maybe mention
---
-(Brains)
---
-(Awful to someone)
---
-(Interacted with someone)
---
-(Liquid soap / water)
---
-Disease avoidance
---
-Language
-# Disgusted by their actions
-# Felt nauseous know what had happened
---
-Disgust sensitivty
-→
-Moral stances
-
-# Particularly significant for views on marriage equality
---
-Ancestral
-Reproductive
-Success
-
-# Not a good foundation for ethics
---
-Morals are relative
-to the culture
-in which we are raised
---
-# Women have social skills
-# Men have agency
-# The best people have *both*
---
-# Equality compared to 150 years ago
-# We're sucking a lot less at it now
---
-# I'm going to focus on...
-
-Improving
-Culture
---
-
-
 Thank you
 
 @pjf
+
 pjf.id.au
---------------------------
-Special thanks to:
+--[text-align=left]
+<b>Special thanks</b>
 
-* Judy Wawira (@judywawira, OpenMRS)
-* Leslie Hawthorn (@lhawthorn)
-* Rob Baker (Ushahidi)
-* Paul Biondich (OpenMRS)
-* Michael Downey (OpenMRS)
+° Judy Wawira (@judywawira, OpenMRS)
+° Leslie Hawthorn (@lhawthorn)
+° Rob Baker (@rrbaker, Ushahidi)
+° Paul Biondich (@pbiondich, OpenMRS)
+° Michael Downey (@downey, OpenMRS)
 
----
+<b>References</b>
 
-Citations
+° bit.ly/PJF_OSCON14
 
-(Need link)
-
----
-Make a change:
-
+# ---
+#
+# __END__
+# 
+# # Problems of global injustice would be greatly reduced if this
+# # caused widespread outcry, especially in richer nations.
+# # 
+# # But that is not the case.
+# --
+# Why?
+# --
+# ## Drowning child / Distance / Etc
+# ## Maybe maybe mention
+# --
+# (Brains)
+# --
+# (Awful to someone)
+# --
+# (Interacted with someone)
+# --
+# (Liquid soap / water)
+# --
+# Disease avoidance
+# --
+# Language
+# # Disgusted by their actions
+# # Felt nauseous know what had happened
+# --
+# Disgust sensitivty
+# →
+# Moral stances
+# 
+# # Particularly significant for views on marriage equality
+# --
+# Ancestral
+# Reproductive
+# Success
+# 
+# Not a good foundation for ethics
+# --
+# Morals are relative
+# to the culture
+# in which we are raised
+# --
+# Women have social skills
+# Men have agency
+# The best people have *both*
+# --
+# Equality compared to 150 years ago
+# We're sucking a lot less at it now
+# --
+# I'm going to focus on...
+#
+# Improving
+# Culture
 
