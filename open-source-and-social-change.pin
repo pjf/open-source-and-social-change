@@ -1,12 +1,189 @@
 #!/usr/bin/pinpoint
 
+[white]
 [text-align=center]
-[font=400px]
+[text-color=black]
+[shading-opacity=0]
+[font=Gill Sans 400px]
 
----
-...
----
-More easily disgusted -> More conservative
----
-But more conservative *relative to the society in which they were raised*
----
+--
+Open Source and Social Change
+<span size="smaller"><span size="smaller">Making the world a better place</span></span>
+
+Paul '@pjf' Fenwick
+<span size="smaller"><span size="smaller">pjf.id.au</span></span>
+
+CC-BY 4.0
+--
+I am excited about the future
+--
+(Flying cars)
+# I grew up being told the future was about flying cars
+--
+(Flying cars 2)
+# And freakin' awesome beards
+--
+(Fly car real)
+# But the closest we've delivered on flying cars is
+# bolting the front of a (...) to the back of a (...)
+# 
+# And it killed its creator
+--
+(Cat beard)
+# Thanks to the internet and the wonders of cats, anyone
+# can have an awesome beard
+--
+# Or a dog beard
+--
+# Or you can get really meta about things
+--
+(Mobile phones)
+# But really, it's about this
+--
+(Graph)
+# More people have access to mobile phones than fresh drinking water
+--
+# I am excited about the future
+--
+# Because the present is so much better than the past
+--
+# Fewer people in poverty
+# Fewer wars
+# Less crime
+# Less disease
+# Progress in social justice
+--
+# We still have a *long* way to go
+--
+# We still have N people who don't have access to fresh water
+--
+# Everyone should have access to fresh water
+--
+# And I want us to get there
+--
+# Hope you would do this because you believe in human rights
+--
+givewell.org
+givingwhatwecan.org
+# Evidence based giving
+--
+# But even if you don't, let me argue this.
+--
+1.75 billion
+in poverty
+# Multi-dimensional poverty index
+# United Nations 2010 Human Development Report
+--
+~ 7 billion
+world population
+--
+Reach the future
+25% faster
+
+# Think about the amazing progress we've seen over the last hundred years
+# Think about what it would be like if we had technology from 25 years
+# in the future, today.
+--
+Overpopulation
+
+# Whenever I raise this, someone cries fear of overpopulation
+# And I recognise that's a legitimate fear
+--
+# Half the world's population lives in countries
+# at below replacement levels of growth
+# # {{cite}}
+--
+Better Living Conditions
+→
+Fewer Children
+
+# If you care about population pressure long term
+# And I care *very* much about the long-term future of humanity
+# The best thing you can do is encourage humanitarian eforts
+--
+Education and Empowerment
+of Women
+--
+Why do we have
+marginalised
+groups?
+--
+(Equatorial guinea)
+--
+Richest nation
+in Africa
+(GDP per capita)
+--
+Eq. Guinea: $33,720
+United Kingdom: $36,209
+
+<span size="smaller">World Bank, GDP (PPP) Per capita, 2011-2013</span>
+--
+
+
+# Systematic oppression
+
+__END__
+
+# Problems of global injustice would be greatly reduced if this
+# caused widespread outcry, especially in richer nations.
+# 
+# But that is not the case.
+--
+Why?
+--
+## Drowning child / Distance / Etc
+## Maybe maybe mention
+--
+(Brains)
+--
+(Awful to someone)
+--
+(Interacted with someone)
+--
+(Liquid soap / water)
+--
+Disease avoidance
+--
+Language
+# Disgusted by their actions
+# Felt nauseous know what had happened
+--
+Disgust sensitivty
+→
+Moral stances
+
+# Particularly significant for views on marriage equality
+--
+Ancestral
+Reproductive
+Success
+
+# Not a good foundation for ethics
+--
+Morals are relative
+to the culture
+in which we are raised
+--
+# Women have social skills
+# Men have agency
+# The best people have *both*
+--
+# Equality compared to 150 years ago
+# We're sucking a lot less at it now
+--
+# I'm going to focus on...
+
+Improving
+Culture
+--
+
+
+Thank you
+--------------------------
+Special thanks to:
+
+* Judy Wawira (@judywawira, OpenMRS)
+* Rob Baker (Ushahidi)
+* Paul Biondich (OpenMRS)
+* Michael Downey (OpenMRS)

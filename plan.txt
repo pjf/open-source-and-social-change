@@ -1,8 +1,159 @@
-* This is a talk about the future
+* Intro
+    * I am excited about the future
+    * I thought the future was about flying cars
+    * But really it's about this
+        * Mobile phones
+        * More people have access to mobile phones than clean drinking water
+    * The future will be great, because we are doing so well in the present
+    * 2014 was the best year in human history
+        * Fewer people in poverty
+        * Fewer wars
+        * Less crime
+        * etc etc
+    * But there's an enormous problem
+        * More people have access to mobile phones than drinking water
+        * Some people don't have access to clean water
+        * That is something *everyone* should have
+    * In fact, some people don't have access to very basic needs at all
+    * I would hope you'd want to help them based upon a caring of
+      human life (wording?)
+    * And I assure you, these are solveable problems, and we're
+      absolutely making a difference.
+    * If you're not sure where to start, givewell.org analyses
+      humanitarian charities on the most good per dollar received.
+      They do amazing work.
+    * Giving what we can is a broader effort I can also recommend.
+    * But if that's not an immediately compelling reason, I have
+      this.
+    * N billion people in extreme poverty
+    * N billion people who, in their current state, will never have the
+      opportunity to (cool thing here)
+    * Sure, most of them will do nothing than look at pictures of cats
+      on the internet
+    * But *some* of them will go on to do amazing things.
+    * We will see at least a N% increase in awesomeness worldwide
+    * I will get my flying car N% sooner
 
+    * Some of you may cry concerns about overpopulation
+    * But improved health care and education always *reduces* birth rates
+      (Graphic)
+    * If you care about population pressure long term, and I care *very*
+      much about the long-term future of humanity, then the *best* thing
+      you can do is encourage humanitarian efforts
+    * Especially the education and empowerment of women
+
+
+
+* Brains
+    * Ask people to talk about when they were awful to someone
+    * Ask people to talk about when they intereacted with someone
+    * Let them use liquid soap and water afterwards
+    * OMG, they use more soap!
+    * "Lady Macbeth effect"
+    * We consistently see contemplation of unethical thoughts associated
+      with disease-avoidance behaviours
+    * This is a clue to how our brains work.
+
+    * Show people disgusting images
+        * Disgusting image for coders (poor indentation, etc)
+    * Part of their brain lights up
+    * Get them to think about unethical things
+    * The *same* part of their brain lights up
+    * This predicts their attitudes towards gay marraige(!)
+
+    * It makes sense that our default ethics are optimised for ancestral
+      reproductive success.
+    * That's not a good foundation for ethics.
+
+    * While orientation may depend upon neurological factors,
+      they're always done *relative* to the society in which
+      the person is raised.
+
+    * So I'm going to focus on improving our culture.
+
+* Ethics
+    * Neuroethics
+        * Brain region hijacked for morality ('disgusting', 'feel sick')
+        * More easily disgusted -> more conservative
+        * But ethics are relative to society in which they were raised.
+        * We need to *fix society*
+    * Example
+        * In the middle ages, an assertive, opinionated woman had a special label.
+        * They were a witch
+        * Now, we call them a *PERSON*.
+
+* I want to make the world a better place
+    * Eliminate disease
+    * Eliminate poverty
+    * Mention WHY?
+        * Less suffering, obviously that's good
+        * Less population pressure. Yes, srsly!
+        * Less disease (drinking water etc solves this)
+
+* MARGINALISED PEOPLE ARE THE MOST IMPORTANT PEOPLE TO HELP
+
+* There is a reason why people are marginalised
+    * Culture and institutions *keep* them that way
+    * Without thinking
+
+* Improving culture
+    * Take from Skud's notes
+    * User Groups / Conferences
+        * These don't exist in truly toxic communities
+        * "It's okay!"
+
+* Ushahidi
+    * Developed in Kenya after civil breakdown after $YEAR elections
+    * Heavy involvement from communities where it's deployed
+    * Local ownership and involvement
+    * (Example from Afghanistan)
+    * Wells set up
+    * Wells would have problems, but not be reported or repaired
+    * Low literacy
+    * Technology - mobile phone
+        * Voice interactive system
+        * Is the well operational?
+        * Can someone local repair it?
+    * Bystander effect (someone else will report the well broken)
+    * Paired with local phone company.
+        * Not just a free call
+        * Calling provides *bonus minutes*
+    * Better verification of problems
+    * *MUCH* faster response times on well repairs
+    * Huge reduction in costs for well inspections (get figure?)
+
+* Play Pump
+    *
+    * Need to pump the water into a tower, even if that tower is empty
+    * Exhausting to children, etc.
+    * Cannot be maintained by local community
+    * Expensive! Four regular pumps could be installed for same price
+    * Slow! Doesn't pump water as fast as a regular pump
+    * In some cases existing pumps were *removed* to install a PP.
+    * Absolutely failed at local community ownership
+
+* Message
+    * -> You need community *ownership*
+    * Especially when it comes to diversity
+    * You need to build a good community from the start
+        * Engagement in diverse groups
+        * Stakeholders and feedback
+        * Outreach
+
+* This is a talk about the future
+    * Lots of people live there.
+    * I already live there (Australia, GMT+10)
+    * If we can make changes now that affect the *rest of human history*
+      then that's a big deal!
+
+* Segue into phones
+    * I used to think the future was about flying cars
+        * Show many flying cars pictures
+    * But the most future thing we have is *this* (phone)
+    * More people have mobile phones than access to safe drinking water (or electricity)
+        * http://www.businessinsider.com/chart-of-the-day-putting-global-mobile-in-context-2012-4
 
 * Mobile phone penetration
-    * 
     * Wikipedia Zero?
     * Increase in violence?
     * No true internet access
@@ -24,12 +175,6 @@
 
 * National Security and Population Growth
     * "It recommends that US leadership "influence national leaders" and that "improved world-wide support for population-related efforts should be sought through increased emphasis on mass media and other population education and motivation programs by the U.N., USIA, and USAID."
-
-* Ethics
-    * Neuroethics
-        * More easily disgusted -> more conservative
-        * But ethics are relative to society in which they were raised.
-        * We need to *fix society*
 
 * Open Source Resiliance
     * StepMania was a DDR clone
@@ -54,4 +199,6 @@
     * Dispute resolution
     * etc
 
+* DreamWidth as a model society
+* Loomio as a facilitation tool
 
