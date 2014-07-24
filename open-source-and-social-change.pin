@@ -1,10 +1,9 @@
 #!/usr/bin/pinpoint
 
-[white]
+[font=Sans 200px]
+[white][text-color=black]
+[shading-opacity=0.0]
 [text-align=center]
-[text-color=black]
-[shading-opacity=0]
-[font=Gill Sans 400px]
 
 --
 Open Source and Social Change
