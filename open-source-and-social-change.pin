@@ -135,11 +135,11 @@ India: $  1,583
 
 -- [images/india-mars-orbiter.jpg]
 
-# $74m
+-- [images/sandra-bullock-gravity.jpg]
 
--- [images/sandra-bullock-gravity.jpg][text-color=white][bottom]
-
-$100m
+--
+India Mars Mission: $74m
+Gravity Movie: $100m
 
 --
 Overpopulation
@@ -202,8 +202,6 @@ United Kingdom: $36,209
 in the World
 
 <span font="50px">World Bank, 2006</span>
---
-
 --[images/australia-exports.png]
 
 # Gordon Silvermanaz, CC-BY-SA 4.0
@@ -338,8 +336,9 @@ Crisis Management
 Kenya
 2007 Elections
 
---
-TODO: NZ example
+-- [images/nz-ushahidi.png]
+
+
 --
 Collecting and
 Visualising Data
@@ -352,7 +351,7 @@ http://blog.ushahidi.com/2012/06/25/watertracker/
 
 -- [images/nokia.jpg][bottom]
 
-~ 58%
+<span font="120px">~ 58%</span>
 <span font="25px">CC-BY Ministerio TIC Colombia, http://flic.kr/p/bBDAKk</span>
 --
 Literacy
@@ -391,6 +390,8 @@ Kenya
 Philippines
 Bangladesh
 Rwanda
+
+# National deployments
 -- [images/dr-evil.jpg][text-color=white][bottom][shading-opacity=0.2]
 Over 1 Million Records
 # Dozens of countries
@@ -422,6 +423,11 @@ Software Industries
 
 # 11 month training courses
 
+--
+We don't hear
+of distant events
+
+# Because we often don't care
 --
 Why didn't
 I care?
@@ -535,9 +541,9 @@ pjf.id.au
 ° Michael Downey (@downey, OpenMRS)
 ° Kassiane (@UVGkassi, Brain imagery)
 ° Gordon Silvermanaz (Export graphs, CC-BY-SA 4.0)
-<b>References</b>
 
-° bit.ly/PJF_OSCON14
+<b>Clone this talk</b>
+° github.com/pjf/open-source-and-social-change
 
 # ---
 #
