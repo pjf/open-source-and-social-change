@@ -154,7 +154,6 @@ Overpopulation
 # *below* replacement growth
 
 --
- 
 
 <span font="200px">Peak Child</span>
 
@@ -184,8 +183,9 @@ of Women
 --
 Why are people
 marginalised?
---
-(Equatorial guinea)
+-- [images/Equatorial-Guinea.png][text-color=white][bottom][shading-opacity=0.3]
+
+<span font="50px">Public Domain, https://commons.wikimedia.org/wiki/File:Location_Equatorial_Guinea_AU_Africa.svg</span>
 --
 Richest nation
 in Africa
@@ -203,12 +203,20 @@ in the World
 
 <span font="50px">World Bank, 2006</span>
 --
-(Exports graph US)
---
-(exports graph)
- 
+
+--[images/australia-exports.png]
+
+# Gordon Silvermanaz, CC-BY-SA 4.0
+# https://en.wikipedia.org/wiki/Economy_of_Australia#mediaviewer/File:2012_Australia_Products_Export_Treemap.png
+# Attributed in closing credits
+
+-- [images/equatorial-guinea-exports.jpeg][bottom][text-color=white]
+<span font="30px">By R Haussmann, Cesar Hidalgo, et. al. CC-BY-SA-3.0</span>
+<span font="30px">via Wikimedia Commons</span>
+#
+# Very corrupt regieme
+# Longest running dictator
 # Wealth not shared with people
-# Very corrupt administration
 --
 Overvalued
 Currency
@@ -302,14 +310,15 @@ $16.4m Investment
 --
 Expensive
 
+# 4x the price
 -- [images/playpump-empty.jpg]
 
-# 4x the price
 # Slow
 # Wasn't fun
 # Women pumping
 # Can't be locally maintained
 # Hand pumps *removed*
+# 60% response rate to calls
 
 --
 Real Needs
@@ -414,6 +423,58 @@ Software Industries
 # 11 month training courses
 
 --
+Why didn't
+I care?
+
+-- [images/pond.jpg][bottom-right][text-color=white][fill]
+
+Public Domain, https://commons.wikimedia.org/wiki/File:Haeinsa-monastery-pond-of-reflection.jpg
+
+# Peter Singer drowning child analogy
+# $100 simple case
+# $3500 disaster case
+
+--
+Ancestral
+Reproductive
+Success
+
+-- [images/kassianes-brain.jpg][bottom][text-color=white]
+Neuroethics
+
+--
+#include <hypothalamus.h>
+
+--
+Disease
+avoidance
+--
+Language
+# Disgusted by their actions
+# Felt nauseous know what had happened
+--
+Disgust sensitivty
+→
+Moral stances
+
+<span font="30px">Borg, Jana Schaich, Debra Lieberman, and Kent A. Kiehl.</span>
+<span font="30px">“Infection, Incest, and Iniquity: Investigating the Neural Correlates of Disgust and Morality.”</span>
+<span font="30px">Journal of Cognitive Neuroscience 20, no. 9 (2008): 1529–46.</span>
+<span font="30px"> </span>
+<span font="30px">Smith, Kevin B., Douglas Oxley, Matthew V. Hibbing, John R. Alford, and John R. Hibbing.</span>
+<span font="30px">“Disgust Sensitivity and the Neurophysiology of Left-Right Political Orientations.”</span>
+<span font="30px">PloS One 6, no. 10 (2011): e25552.</span>
+# Particularly significant for views on marriage equality
+--
+Morals are relative
+to the culture
+in which we are raised
+
+--
+Improving
+Culture
+
+--
 Your
 Project?
 -- [images/delorean.jpg]
@@ -424,6 +485,7 @@ Project?
 --
 Inclusive
 Community
+
 --
 From the
 Beginning
@@ -436,6 +498,7 @@ Beginning
 # is to have diversity in governance
 --
 Diversity of governance
+
 --
 Code of Conduct
 
@@ -470,7 +533,8 @@ pjf.id.au
 ° Rob Baker (@rrbaker, Ushahidi)
 ° Paul Biondich (@pbiondich, OpenMRS)
 ° Michael Downey (@downey, OpenMRS)
-
+° Kassiane (@UVGkassi, Brain imagery)
+° Gordon Silvermanaz (Export graphs, CC-BY-SA 4.0)
 <b>References</b>
 
 ° bit.ly/PJF_OSCON14
