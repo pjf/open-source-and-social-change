@@ -9,6 +9,6 @@ Images have varying licenses, which are referenced in the slides.
 
 [`open-source-and-social-change.pin`](https://github.com/pjf/open-source-and-social-change/blob/master/open-source-and-social-change.pin) is the slides used for the talk itself.
 
-If you're skilled with git, the tag `oscon2014` represents the repository at the time I went on stage.
+If you're skilled with git, the tags represent the state of the talk at the various conferences at which it was presented.
 
 My plan, slide notes, and everything else were all written with myself as the audience. They may contain errors, omissions, strange mark-up, abbreviations, and various other notes, jottings, and inconsistencies.
