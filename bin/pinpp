@@ -24,9 +24,13 @@ my $content = slurp($file);
 
 $content =~ s{^\@include\s+<([^>]+)>[^\n]*\n}{include($1)}gmse;
 
+# Remove blank slides
+
+$content =~ s{^--\n--}{--}gsm;
+
 say $content;
 
 sub include {
     my ($include) = @_;
-    return slurp(File::Spec->catdir($INCLUDE_DIR, $include));
+    return slurp(File::Spec->catdir($INCLUDE_DIR, $include))."--\n";
 }
