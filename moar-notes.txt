@@ -25,3 +25,14 @@
 * Start your community on the right foot.
 * Encourage diversity from the get-go
 * Put them in positions of power. Local ownership.
+
+---
+
+Update plan for NZ:
+
+- [ ] Compress figures on how the world is doing good.
+
+- [ ] Remove OpenMRS. It's a good example, but Ushahidi was used in NZ.
+
+- [ ] Increase discussion on culture (all above).
+
