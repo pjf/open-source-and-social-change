@@ -34,12 +34,15 @@ Perceived Needs
 Local Ownership
 --
 @include <90-ushahidi.pin>
-@include <100-openmrs.pin>
+// 24 minutes (NZ edition)
+// @include <100-openmrs.pin>
 @include <110-neuroethics.pin>
 --
 Morals are relative
 to the culture
 in which we are raised
+
+# 30 minutes, NZ
 --
 @include <120-improving-culture.pin>
 --
