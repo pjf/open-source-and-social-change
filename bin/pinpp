@@ -1,0 +1,32 @@
+#!/usr/bin/perl
+use 5.010;
+use strict;
+use warnings;
+use autodie;
+use File::Spec;
+use File::Slurp qw(slurp);
+
+my $INCLUDE_DIR = "topics";
+
+# Basic pin pre-processor.
+# Paul '@pjf' Fenwick, October 2014.
+# License: Same as Perl, or CC-BY, you choose.
+
+my ($file) = @ARGV;
+
+$file or die "Usage: $0 file.pinpp";
+
+# Okay code, you have just one job:
+# @include <foo.pin> -> includes $INCLUDE_DIR/foo.pin
+# NB: Everything after the @include on a line will be removed.
+
+my $content = slurp($file);
+
+$content =~ s{^\@include\s+<([^>]+)>[^\n]*\n}{include($1)}gmse;
+
+say $content;
+
+sub include {
+    my ($include) = @_;
+    return slurp(File::Spec->catdir($INCLUDE_DIR, $include));
+}

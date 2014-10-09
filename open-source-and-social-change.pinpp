@@ -6,40 +6,7 @@
 [text-align=center]
 
 --
-Open Source and Social Change
-<span size="smaller"><span size="smaller">Making the world a better place</span></span>
-
-Paul '@pjf' Fenwick
-<span size="smaller"><span size="smaller">pjf.id.au</span></span>
-
-CC-BY 4.0
---
-I am excited
-about the future
--- [images/flying-car.jpg]
-
-# Flying cars
--- [images/flying-car-beard.jpg]
-
-# And freakin' awesome beards
-#
-# Failed to deliver on flying cars
-#
-# Thanks to the internet and the wonders of cats, anyone
-# can have an awesome beard
--- [images/catbeard.jpg][bottom-right][font=25px][text-color=white]
-
-# Even if their cat is a dog
-
--- [images/dogbeard.jpg][bottom-right][font=25px][text-color=white]
-Credit: dog-beard.com
-
-# And we even support recursion
-
--- [images/catcatbeard.jpg][bottom-right][font=25px][text-color=white]
-Credit: catbearding.tumblr.com
-
-# Even cats can have beards
+@include <intro.pin>
 --
 The World
 is a Better
