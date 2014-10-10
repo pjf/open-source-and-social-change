@@ -2,15 +2,21 @@
 use 5.010;
 use strict;
 use warnings;
-use autodie;
+use autodie qw(:all);
 use File::Spec;
 use File::Slurp qw(slurp);
+use Getopt::Std;
+use File::Temp qw(tempfile); 
 
 my $INCLUDE_DIR = "topics";
 
 # Basic pin pre-processor.
 # Paul '@pjf' Fenwick, October 2014.
 # License: Same as Perl, or CC-BY, you choose.
+
+# -o let's one set an output file (PDF)
+my %opts = ( 'o' => '' );
+getopts("o:",\%opts);
 
 my ($file) = @ARGV;
 
@@ -22,7 +28,7 @@ $file or die "Usage: $0 file.pinpp";
 
 my $content = slurp($file);
 
-# Remove comments
+# Remove // comments
 
 $content =~ s{^//[^\n]*\n}{}gsm;
 
@@ -34,7 +40,22 @@ $content =~ s{^\@include\s+<([^>]+)>[^\n]*\n}{include($1)}gmse;
 
 $content =~ s{^--\n--}{--}gsm;
 
-say $content;
+if (my $outputfile = $opts{o}) {
+
+    # Iff we're producing a PDF, then remove speaker comments
+    $content =~ s{^#[^\n]*\n}{}gsm;
+
+    my ($tmp_fh, $tmp_filename) = tempfile( DIR => '.' );
+
+    say {$tmp_fh} $content;
+    close($tmp_fh);
+
+    system("pinpoint", "--output=$opts{o}", $tmp_filename);
+}
+else {
+    # Otherwise just display our text
+    say $content;
+}
 
 sub include {
     my ($include) = @_;
