@@ -22,6 +22,12 @@ $file or die "Usage: $0 file.pinpp";
 
 my $content = slurp($file);
 
+# Remove comments
+
+$content =~ s{^//[^\n]*\n}{}gsm;
+
+# Process includes
+
 $content =~ s{^\@include\s+<([^>]+)>[^\n]*\n}{include($1)}gmse;
 
 # Remove blank slides
