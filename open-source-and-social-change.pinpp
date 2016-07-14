@@ -23,8 +23,8 @@ Injustice
 # Much harder to see in our own
 --
 @include <60-local-examples.pin>
-// @include <65-equatorial-guinea-australia.pin>
-@include <66-equatorial-guinea-worldwide.pin>
+@include <65-equatorial-guinea-australia.pin>
+// @include <66-equatorial-guinea-worldwide.pin>
 @include <70-listen.pin>
 @include <80-play-pump.pin>
 --
@@ -35,9 +35,9 @@ Perceived Needs
 Local Ownership
 --
 @include <90-ushahidi.pin>
+@include <100-openmrs.pin>
 // 24 minutes (NZ edition)
-// @include <100-openmrs.pin>
-@include <101-openmrs-short.pin>
+// @include <101-openmrs-short.pin>
 @include <110-neuroethics.pin>
 --
 Morals are relative

@@ -17,9 +17,14 @@ Over 1 Million Records
 --
 Local
 Ownership
+
+# Customised for local conditions
+# For example, how do we deal with names?
 -- [images/hello.png]
  
 ?
+
+# English nations assume first-last.
 
 # Judy Warira
 # Grandparents
