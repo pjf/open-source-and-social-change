@@ -12,3 +12,10 @@ Images have varying licenses, which are referenced in the slides.
 If you're skilled with git, the tags represent the state of the talk at the various conferences at which it was presented.
 
 My plan, slide notes, and everything else were all written with myself as the audience. They may contain errors, omissions, strange mark-up, abbreviations, and various other notes, jottings, and inconsistencies.
+
+## Building
+
+1. Install [pinpp](https://metacpan.org/pod/distribution/App-Pinpp/bin/pinpp). If you've already got `cpanm` installed, this is as simple as `cpanm App::Pinpp`.
+
+1. Type `make`
+
